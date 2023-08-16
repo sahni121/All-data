@@ -1,0 +1,45 @@
+{
+    "PermissionSets": [
+        {
+            "PermissionSetName": "SupportUser",
+            "ManagedPolicies": [
+                "SupportUser"
+            ]
+        },
+        {
+            "PermissionSetName": "ec2",
+            "InlinePolicy": {
+                "Version": "2012-10-17",
+                "Statement": [
+                    {
+                        "Effect": "Allow",
+                        "Action": [
+                            "ec2:Describe*",
+                            "ec2:Get*",
+                            "ec2:List*"
+                        ],
+                        "Resource": "*"
+                    }
+                ]
+            }
+        },
+        {
+            "PermissionSetName": "demo8",
+            "ManagedPolicies": [
+                "AWSDirectConnectReadOnlyAccess"
+            ]
+        },
+        {
+            "PermissionSetName": "demo9",
+            "CustomerManagedPolicies": [
+                "lite"
+            ]
+        },
+        {
+            "PermissionSetName": "PowerUserAccess",
+            "ManagedPolicies": [
+                "PowerUserAccess"
+            ]
+        }
+    ]
+}

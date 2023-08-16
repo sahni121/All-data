@@ -1,0 +1,45 @@
+BucketName,VersioningStatus
+112121,Not Enabled
+1set2,Enabled
+1set3,Enabled
+1set4,Enabled
+1set5,Enabled
+1set6,Enabled
+1set7,Enabled
+aws-athena-query-results-us-east-1-416207743258,Enabled
+aws-cloudtrail-logs-416207743258-034eb8d5,Not Enabled
+aws-cloudtrail-logs-416207743258-832e6fa2,Not Enabled
+aws-cloudtrail-logs-416207743258-9affd9a6,Not Enabled
+aws-cloudtrail-logs-416207743258-d52568c9,Not Enabled
+aws-cloudtrail-logs-416207743258-eaa70b7b,Not Enabled
+aws-cloudtrail-logs-sg-test,Not Enabled
+aws-sso-migration-ttn-ext-org,Not Enabled
+buck-9012,Not Enabled
+bucket-for-sso-data-adityaajay,Not Enabled
+central-cloudtrail-logs-bucket-416207743258,Not Enabled
+cf-templates-1svyd0r718srg-ap-south-1,Not Enabled
+cf-templates-1svyd0r718srg-us-east-1,Not Enabled
+cfn-template-cloudkeeper-onboarding,Not Enabled
+ck-auto-cur-pro-dsnvsdnbsd,Not Enabled
+ck-auto-cur-prod-12345678,Not Enabled
+ck-lens-22699-aslf7asfn,Enabled
+ck-s3-payerautomation-externalpoc,Not Enabled
+cloudfront-source-demo-bucket,Enabled
+cloudtrail-log-query-table,Not Enabled
+cloudtrail-logs-12345654321,Not Enabled
+cloudtrail-logs-trail-02,Not Enabled
+config-bucket-416207743258,Not Enabled
+csv-cur-ttn-poc-ttn-org-pocs,Enabled
+cur-bucket-for-nops,Not Enabled
+datadogintegration-forwarderstack-forwarderbucket-qw5vcytds9nu,Not Enabled
+demobucketforckextension,Not Enabled
+dummmy--bucket,Not Enabled
+lifecycle1111,Enabled
+parquet-cur-ttn-poc-ttn-org-pocs,Enabled
+public-bucket-test.1,Not Enabled
+rate-limit-bucket-cf,Not Enabled
+sso-data-bucket,Not Enabled
+tagcomplianceadityaajaypoc,Not Enabled
+test-s3-public-1,Not Enabled
+testing-bucket-replication,Enabled
+war-script-test,Not Enabled

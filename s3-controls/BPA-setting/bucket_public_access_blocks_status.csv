@@ -1,0 +1,35 @@
+BucketName,PublicAccessBlocksStatus
+1set2,Not Applied
+1set3,Applied
+1set4,Applied
+aws-athena-query-results-us-east-1-416207743258,Applied
+aws-cloudtrail-logs-416207743258-832e6fa2,Applied
+aws-cloudtrail-logs-416207743258-9affd9a6,Applied
+aws-cloudtrail-logs-416207743258-d52568c9,Applied
+aws-sso-migration-ttn-ext-org,Applied
+buck-9012,Applied
+bucket-for-sso-data-adityaajay,Not Applied
+central-cloudtrail-logs-bucket-416207743258,Applied
+cf-templates-1svyd0r718srg-ap-south-1,Applied
+cf-templates-1svyd0r718srg-us-east-1,Applied
+cfn-template-cloudkeeper-onboarding,Applied
+ck-lens-22699-aslf7asfn,Applied
+ck-s3-payerautomation-externalpoc,Applied
+cloudfront-source-demo-bucket,Applied
+cloudtrail-log-query-table,Applied
+cloudtrail-logs-12345654321,Applied
+cloudtrail-logs-trail-02,Applied
+config-bucket-416207743258,Applied
+csv-cur-ttn-poc-ttn-org-pocs,Not Applied
+cur-bucket-for-nops,Applied
+datadogintegration-forwarderstack-forwarderbucket-qw5vcytds9nu,Applied
+demobucketforckextension,Applied
+dummmy--bucket,Applied
+parquet-cur-ttn-poc-ttn-org-pocs,Not Applied
+public-bucket-test.1,Applied
+rate-limit-bucket-cf,Not Applied
+sso-data-bucket,Applied
+tagcomplianceadityaajaypoc,Applied
+test-s3-public-1,Applied
+testing-bucket-replication,Applied
+war-script-test,Applied

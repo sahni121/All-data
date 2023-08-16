@@ -1,0 +1,3 @@
+CloudTrailName,ManagementEventTypes
+demo-trail,Read
+management-events,Write
